@@ -5,4 +5,4 @@
 <p>in this project tried to practice some tools provided by react like the useState and in useContext</p>
 
 
-<img src="./Captuta.PNG"/>
+<img src="./Captura.PNG"/>
